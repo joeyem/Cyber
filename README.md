@@ -4,7 +4,7 @@
 *This repository will document key information and key findings.*
 
 # Useful Linux Commands
-- ## **ls**
+- ## **ls** [tags]
 *This command lists all files/directories of the user. Useful tags include:*
 
   -   **-l** :   Lists additional information about files/directories.
@@ -14,22 +14,22 @@
   -   **-t** :   Sorts files/directories by their modification date.
   -   **-1** :   Lists one file/directory per line.
 ##
-- ## **cd**
+- ## **cd** [tags/directory]
 *This command changes the current working directory of the user. Useful tags include:*
 
 -  **/** :    Changes the current working directory to root
 - **..** :   Changes the current working directory to the parent directory
 - **~** :    Changes the current working directory to home
 ##
-- ## **nano**
+- ## **nano** [filename]
 *This command executes a text editor for editing or creating a file. Useful tags include:*
 
 ##
-- ## **wget**
+- ## **wget** [http://filename]
 *This command executes downloads a file via a HTTP link. Useful tags include:*
 
 ##
-- ## **scp**
+- ## **scp** [tags] [source computer http://filename] [destination computer /directory]
 *This command executes a secure and encrypted file SSH transfer from the source computer to the destination computer. Useful tags include:*
 
 ##
