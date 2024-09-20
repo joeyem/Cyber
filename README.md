@@ -8,17 +8,17 @@
 
 *This command lists all files/directories of the user. Useful tags include:*
 
-  -   ### -l:   Lists additional information about files/directories.
-  -   ### -h:   Formats the information to be 'human-readable'.
-  -   ### -a:   Includes hidden files/directories.
-  -   ### -S:   Sorts files/directories by their size.
-  -   ### -t:   Sorts files/directories by their modification date.
-  -   ### -1:   Lists one file/directory per line.
+  -   ### -l :   Lists additional information about files/directories.
+  -   ### -h :   Formats the information to be 'human-readable'.
+  -   ### -a :   Includes hidden files/directories.
+  -   ### -S :   Sorts files/directories by their size.
+  -   ### -t :   Sorts files/directories by their modification date.
+  -   ### -1 :   Lists one file/directory per line.
 
 - ## cd
 
 *This command changes the current working directory of the user. Useful tags include:*
 
-- ### /:    Changes the current working directory to root
-- ### ..:   Changes the current working directory to the parent directory
-- ### ~:    Changes the current working directory to home
+- ### / :    Changes the current working directory to root
+- ### .. :   Changes the current working directory to the parent directory
+- ### ~ :    Changes the current working directory to home
