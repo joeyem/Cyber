@@ -4,7 +4,7 @@ Joey's Cyber Discourse
 This repository will document key information and key findings.
 
 # Useful Linux Commands
-- 'ls'
+- ## 'ls'
 
 This command lists all files/directories of the user. Useful tags include:
 
