@@ -23,6 +23,9 @@
 ##
 - ## **nano**
 *This command executes a text editor for editing or creating a file. Useful tags include:*
+
 ##
 - ## **wget**
 *This command executes downloads a file via a HTTP link. Useful tags include:*
+
+##
