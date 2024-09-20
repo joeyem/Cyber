@@ -29,3 +29,7 @@
 *This command executes downloads a file via a HTTP link. Useful tags include:*
 
 ##
+- ## **scp**
+*This command executes a secure and encrypted file SSH transfer from the source computer to the destination computer. Useful tags include:*
+
+##
