@@ -6,7 +6,7 @@
 # Useful Linux Commands
 - ## ls
 
-This command lists all files/directories of the user. Useful tags include:
+*This command lists all files/directories of the user. Useful tags include:*
 
   -   ### -l:   Lists additional information about files/directories.
   -   ### -h:   Formats the information to be 'human-readable'.
@@ -17,7 +17,7 @@ This command lists all files/directories of the user. Useful tags include:
 
 - ## cd
 
-This command changes the current working directory of the user. Useful tags include:
+*This command changes the current working directory of the user. Useful tags include:*
 
 - ### /:    Changes the current working directory to root
 - ### ..:   Changes the current working directory to the parent directory
