@@ -1,7 +1,7 @@
-# Cyber
-Joey's Cyber Discourse
+# **Cyber**
+**Joey's Cyber Discourse**
 
-This repository will document key information and key findings.
+*This repository will document key information and key findings.*
 
 # Useful Linux Commands
 - ## ls
